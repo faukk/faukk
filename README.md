@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/32/59/8d/32598defd3c9a913c3eb2aa76864b0d8.jpg" width="200" />
+  <img src="https://i.pinimg.com/564x/d6/29/43/d62943811acd719ea14c9cc3a254a0b8.jpg" width="200" />
   <h1 align="center">Hi, I'm Yui 🌸</h1>
   <h3 align="center">Developer | Linux Enthusiast | Coding Fanatic</h3>
   
