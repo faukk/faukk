@@ -12,7 +12,7 @@
 
 <div id="badges" align="center">
 <a href="" target="blank">
-<img alt="Almighty" src="https://img.shields.io/badge/-almighty-black">
+<img alt=":v" src="https://img.shields.io/badge/-almighty-black">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/yuidevv?color=black&logoColor=black&style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yuidevv?color=black&logoColor=black&style=social">
 </a>
