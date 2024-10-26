@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/564x/d6/29/43/d62943811acd719ea14c9cc3a254a0b8.jpg" width="200" />
-  <h1 align="center">Hi, I'm Yui 🌸</h1>
+  <h1 align="center">Hi, I'm Fauk 🌸</h1>
   <h3 align="center">Developer | Linux Enthusiast | Coding Fanatic</h3>
   
   <p align="center"> 
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Discord.js** and **Linux development**.
 - 💻 I love to explore **open-source** projects.
 - 🤝 Looking to collaborate on **interesting Python, Java, and Linux projects**.
-- 📧 Reach me: **@yuz.dev**.
+- 📧 Reach me: **@fa.uk**.
 
 ---
 
@@ -33,5 +33,5 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=yuidevv&theme=highcontrast&ring=ff69b4&fire=purple&currStreakLabel=ff69b4" alt="GitHub streak stats">
   
-  ![yuidevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuidevv&show_icons=true&theme=radical&icon_color=ff69b4)
+  ![fa.uk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuidevv&show_icons=true&theme=radical&icon_color=ff69b4)
 </div>
