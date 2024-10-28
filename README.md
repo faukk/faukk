@@ -4,8 +4,8 @@
   <h3 align="center">Developer | Linux Enthusiast | Coding Fanatic</h3>
   
   <p align="center"> 
-    <img src="https://img.shields.io/github/followers/yuidevv?color=ff69b4&logo=github&style=for-the-badge" alt="followers badge" /> 
-    <img src="https://img.shields.io/github/stars/yuidevv?color=ff69b4&logo=github&style=for-the-badge" alt="stars badge" />
+    <img src="https://img.shields.io/github/followers/faukk?color=ff69b4&logo=github&style=for-the-badge" alt="followers badge" /> 
+    <img src="https://img.shields.io/github/stars/faukk?color=ff69b4&logo=github&style=for-the-badge" alt="stars badge" />
   </p>
 </div>
 
@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=yuidevv&theme=highcontrast&ring=ff69b4&fire=purple&currStreakLabel=ff69b4" alt="GitHub streak stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=faukk&theme=highcontrast&ring=ff69b4&fire=purple&currStreakLabel=ff69b4" alt="GitHub streak stats">
   
-  ![fa.uk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuidevv&show_icons=true&theme=radical&icon_color=ff69b4)
+  ![fa.uk's GitHub stats](https://github-readme-stats.vercel.app/api?username=faukk&show_icons=true&theme=radical&icon_color=ff69b4)
 </div>
